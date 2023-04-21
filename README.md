@@ -37,15 +37,6 @@ and make sure that you will check the option `Add Python 3.x to PATH` while inst
 git clone https://github.com/GergesHany/Find-Jobs-script.git
 ```
 
+<hr>
 
-### Demo Video
-
-
-
-
-
-
-
-
-
-
+## Demo Video
